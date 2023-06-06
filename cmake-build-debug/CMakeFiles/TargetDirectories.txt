@@ -1,0 +1,3 @@
+/Users/binhduongnguyen/Desktop/FH Technikum/2.Semester/Objektorientierte Programmierung Labor/Oasen/cmake-build-debug/CMakeFiles/Projekt1.dir
+/Users/binhduongnguyen/Desktop/FH Technikum/2.Semester/Objektorientierte Programmierung Labor/Oasen/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/binhduongnguyen/Desktop/FH Technikum/2.Semester/Objektorientierte Programmierung Labor/Oasen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
